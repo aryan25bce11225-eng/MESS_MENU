@@ -154,23 +154,14 @@ Output: [Result description]
 
 Visual demonstrations of the application in action:
 
-### Main Interface
-![Home Screen](assets/screenshots/home_screen.png)
-*Caption: Initial screen showing main menu and available options*
+### Code Display
+![](https://github.com/aryan25bce11225-eng/MESS_MENU/blob/main/Screenshot%202025-11-23%20225140.png)
+![](https://github.com/aryan25bce11225-eng/MESS_MENU/blob/main/Screenshot%202025-11-23%20225414.png)
 
-### Core Functionality
-![Feature Demo](assets/screenshots/feature_demo.png)
-*Caption: Demonstration of the primary feature in action*
-
-### Processing View
-![Processing](assets/screenshots/processing_view.png)
-*Caption: System processing user input and performing calculations*
 
 ### Results Display
-![Output Results](assets/screenshots/result_output.png)
-*Caption: Final output showing results in a clear, formatted manner*
+![](https://github.com/aryan25bce11225-eng/MESS_MENU/blob/main/Screenshot%202025-11-23%20232633.png)
 
-> **Note:** Add your actual screenshots to `assets/screenshots/` and ensure filenames match those referenced above.
 
 ## 7. Workflows and Flowcharts
 
